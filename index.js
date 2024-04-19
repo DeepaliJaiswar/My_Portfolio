@@ -34,14 +34,14 @@ $(document).ready(function () {
     });
   
     var typed = new Typed(".typing", {
-      strings: ["3rd Year Student of BSc Computer Science", "Programmer", "Web Developer"],
+      strings: ["Final Year Student of BSc Computer Science", "Programmer", "Web Developer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
     });
   
     var typed = new Typed(".typing-2", {
-      strings: ["3rd Year Student of BSc Computer Science", "Programmer", "Web Developer"],
+      strings: ["Final Year Student of BSc Computer Science", "Programmer", "Web Developer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
@@ -78,7 +78,7 @@ $(document).ready(function () {
   function openDrive() {
     window.open(
       (href =
-        "https://drive.google.com/file/d/1Z5TSCCEo6KNtc53O79ww6jYtuaKnnk-h/view?usp=sharing")
+        "https://drive.google.com/file/d/1BRqV9o5-Yqf9wPCA5jVS9DVtV5nPtM3r/view?usp=sharing")
     );
   }
   
