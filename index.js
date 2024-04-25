@@ -34,14 +34,14 @@ $(document).ready(function () {
     });
   
     var typed = new Typed(".typing", {
-      strings: ["BSc Computer Science Graduate", "Programmer", "Web Developer"],
+      strings: ["Graduated in BSc Computer Science", "Programmer", "Web Developer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
     });
   
     var typed = new Typed(".typing-2", {
-      strings: ["BSc Computer Science Graduate", "Programmer", "Web Developer"],
+      strings: ["Graduated in BSc Computer Science", "Programmer", "Web Developer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
